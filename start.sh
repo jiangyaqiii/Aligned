@@ -2,7 +2,7 @@
 curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batcher/aligned/install_aligned.sh | bash
 
 #加载环境变量
-source /root/.bashrc
+source ~/.bashrc
 
 #下载证明文件
 curl -L https://raw.githubusercontent.com/yetanotherco/aligned_layer/main/batcher/aligned/get_proof_test_files.sh | bash
